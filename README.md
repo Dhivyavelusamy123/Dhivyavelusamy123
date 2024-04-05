@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhivyavelusamy123
 - 👀 I’m interested in ...  Machine learning
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... Java, Html, CSS, Javascript and SQL 
 - 💞️ I’m looking to collaborate on ... JAVA full Stack developer
 - 📫 How to reach me ... 
 
